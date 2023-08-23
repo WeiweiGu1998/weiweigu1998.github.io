@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Arizona State University</a>
+subtitle: <a href='https://logos-robotics-lab.github.io/'>LOGOS Lab, Arizona State University</a>
 
 #profile:
   #align: right
@@ -18,7 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second year PhD at Arizona State University(ASU) working with Prof. Nakul Gopalan. My research interest lies in the intersection of Robotics, CV, and NLP.
+I am a second year PhD student advised by [Prof. Nakul Gopalan](https://nakulgopalan.github.io/) at Arizona State University(ASU). My research interests lies at the intersection of Robotics, CV, and NLP.
+Previously, I did NLP research during my master at University of Rochester, advised by [Prof. Aaron Steven White](http://aaronstevenwhite.io/).
+
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 -->
 
