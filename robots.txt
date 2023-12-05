@@ -1,7 +1,4 @@
----
-permalink: /robots.txt
----
 User-agent: *
 Disallow:
 
-Sitemap: {{ site.baseurl | prepend: site.url }}/sitemap.xml
+Sitemap: https://weiweigu1998.github.ioweiweigu1998# the subpath of your site, e.g. /blog//sitemap.xml
